@@ -1,9 +1,4 @@
-# DS301-AES
-Daniel Lee &amp; JunSeob Shim DS301 Final Project: AES
-
 # Edit made to add necessary credit to other users for using their code and results
-
-Automated Essay Grading: Daniel Lee & Jun Seob Shim
 
 Description:
 This project focuses on the intriguing domain of automated essay grading. The initial approach began with simple machine learning models such as Linear Regression, SVM, and Random Forest. As the project matured, a shift was made to leverage deep learning models, including LSTM, BERT, and Word2Vec, aiming to enhance the accuracy and efficiency of grading.

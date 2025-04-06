@@ -34,9 +34,9 @@ MSE of 2.23, about 20 minutes to train and evaluate
 Random Forest Results:
 MSE of 2.21, over 3 hours to train and evaluate
 
-Given that the essay scores are out of 10, the MSE of our linear regression model tells us that our result is wrong and our model is not performing the way I want it to. Our SVM model gave us an MSE of 2.23, which was definitely better than our linear regression model, but still high for a dataset of scores out of 10. While the MSE of 2.21 from our random forest model is in the right direction, I was curious if I could improve on that further. So, I decided to explore deep ML models to see if they would result in better performance.
+Given that the essay scores are out of 10, the MSE of our linear regression model tells us that our result is wrong and our model is not performing in the intended way. Our SVM model gave us an MSE of 2.23, which was definitely better than our linear regression model, but still high for a dataset of scores out of 10. While the MSE of 2.21 from our random forest model is in the right direction, it could improve on that further.
 
-For these three models, I utilized Guarev Pande's results due to the deep ML models being too computationally expensive, which didn't allow us to run the code ourselves. I included these three results here to serve as additional information to the reader about how deep ML models could perform for our problem.
+For further exploration and potential performance optimization, Guarev Pande's results were referred to due to the deep ML models being too computationally expensive - they were included here to serve as additional information to the reader about how deep ML models could perform for our problem.
 
 LSTM Results:
 Individual Sets: Average κ of 0.685, about 30 minutes to train and evaluate.
